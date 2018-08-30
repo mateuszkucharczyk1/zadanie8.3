@@ -1,0 +1,19 @@
+{
+  "name": "zadanie8.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:js": "jshint ./js/*.js",
+    
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.9.6"
+  }
+}
